@@ -2,7 +2,7 @@
 
 Personal website.
 
-CRA, bare bones HTML, Tachyons (SASS), Firebase Hosting.
+Currently CRA, bare bones HTML, Tachyons, Firebase Hosting.
 
 ## License
 
