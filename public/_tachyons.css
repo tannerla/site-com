@@ -2,3 +2,18 @@
 .deep-pink {
   color: #ba2755;
 }
+
+.hover-deep-pink:hover {
+  color: #ba2755;
+}
+
+.proxima {
+  font-family: proxima-nova,sans-serif;
+}
+
+.h25 {
+  height: 3rem;
+}
+.w25 {
+ width: 3rem;
+}
